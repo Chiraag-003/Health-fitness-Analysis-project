@@ -19,13 +19,7 @@ End-to-End health &amp; fitness data analysis project using Python includes segm
 - Most users fall into **low activity and low recovery segments**
 - Sleep and stress strongly influence overall wellness
 - Majority of users are in **low to moderate wellness category**
-- Dataset contains **missing values and extreme outliers**
-
-Recommendations
-- Improve sleep quality and stress management
-- Encourage consistent physical activity
-- Clean and validate data before analysis
-- Use KPIs for monitoring health performance
+- Dataset contains **missing values and extreme outliers
 
  🛠 Tools Used
 - Python
