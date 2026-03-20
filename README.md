@@ -26,7 +26,24 @@ End-to-end health & fitness data analysis project using **Python**, covering seg
   * Activity Efficiency
 * Data Storytelling using visualizations
 
----
+## 🧠 Feature Engineering & Explanation
+
+* **Daily Steps** → Measures physical activity level of users
+* **Hours Sleep** → Indicates recovery and rest quality
+* **Stress Level** → Represents mental health condition
+
+### 🔧 Engineered Features:
+
+* **Wellness Score**
+  A composite metric combining activity, sleep, and stress to represent overall health status
+
+* **Recovery Index**
+  Derived from sleep and stress to evaluate how well a user recovers
+
+* **Activity Efficiency**
+  Measures effectiveness of workouts based on calories burned per minute
+
+👉 These features transform raw data into **meaningful health indicators**, enabling better analysis and decision-making.
 
 ## 📈 Key Insights
 
